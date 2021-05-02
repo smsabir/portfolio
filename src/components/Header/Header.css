@@ -1,0 +1,13 @@
+.ProImg{
+    max-height: 400px;
+    border-bottom: 15px solid rgba(70, 70, 70, 0.562);
+    border-right: 15px solid rgb(70, 70, 70);
+    height: auto;
+    width: auto;
+}
+
+.greeting{
+    min-height: 380px;
+    border-top: 15px solid rgb(70, 70, 70, 0.562);
+    border-left: 15px solid rgb(70, 70, 70);
+}
