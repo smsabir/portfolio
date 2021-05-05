@@ -11,3 +11,19 @@
     border-top: 15px solid rgb(70, 70, 70, 0.562);
     border-left: 15px solid rgb(70, 70, 70);
 }
+
+.navbar-toggler-icon{
+    background-color: rgb(112, 112, 112)!important;
+    border-radius: 2px;
+}
+
+.navbar-brand, .nav-link{
+    color: rgb(190, 190, 190)!important;
+}
+#get-resume{
+    padding: 5px 15px;
+    font-size: 20px;
+    text-decoration: none;
+    border: 2px solid gray;
+    color: rgb(155, 85, 85);
+}

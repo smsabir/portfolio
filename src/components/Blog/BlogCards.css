@@ -1,0 +1,8 @@
+.blog-card{
+    background-color: black!important;
+    color:rgb(190, 190, 190);
+}
+.blog-card a{
+    color: gray;
+    text-decoration: none;
+}

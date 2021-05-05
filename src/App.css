@@ -1,8 +1,5 @@
-/* *, html{
-  background-color: rgb(255, 255, 255);
-} */
 
-.body{
+.top{
   margin-top: 0;
   overflow: hidden;
   margin: 0;
@@ -10,3 +7,24 @@
   background-color: rgb(20, 20, 20);
 }
 
+.middle{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.blog-area{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(20, 20, 20);
+}
+
+.contact{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+.footer{
+  overflow: hidden;
+  background-color: rgb(20, 20, 20);
+}

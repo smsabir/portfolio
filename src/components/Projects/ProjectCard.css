@@ -1,0 +1,26 @@
+.card-img img{
+    width: 100%;
+    min-height: 310px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.tech{
+    padding: 2px 5px;
+    background-color: rgb(80, 80, 80);
+    margin: 5px;
+    float: left;
+    border-radius: 3px;
+    color: rgb(195, 195, 195);
+}
+
+.card{
+    background-color: rgb(0, 0, 0)!important ;
+    box-shadow: 0 2px 15px rgb(49, 49, 49);
+}
+.card:hover{
+    box-shadow: 0 2px 20px rgb(80, 79, 79);
+}
+
+.card-info{
+    min-height: 240px;
+}
